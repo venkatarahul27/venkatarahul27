@@ -87,15 +87,24 @@ Building intelligent systems at the intersection of AI, cloud, and enterprise so
 
 ---
 
-### GitHub Stats
+### Certifications & Courses
+
+| Course | Focus Area |
+|--------|-----------|
+| **Getting Started .NET Core Microservices RabbitMQ** | `.NET Core` `RabbitMQ` `Microservices` |
+| **Docker & Kubernetes for .NET and Angular Developers** | `Docker` `Kubernetes` `.NET` `Angular` |
+| **The Complete Microservices & Event-Driven Architecture** | `Microservices` `Event-Driven` `System Design` |
+| **SAP ABAP** | `SAP` `ABAP` `Enterprise` |
+
+---
+
+### GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatarahul27&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=venkatarahul27&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/venkatarahul27)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatarahul27&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkatarahul27&theme=github-dark-blue&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=venkatarahul27&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
