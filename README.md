@@ -15,10 +15,11 @@ Building intelligent systems at the intersection of AI, cloud, and enterprise so
 
 ### About Me
 
-- Working across the full stack — from .NET enterprise backends to Python-powered AI systems
-- Passionate about multi-agent AI architectures, RAG pipelines, and developer tooling
-- Currently exploring LLM orchestration patterns and production-grade AI applications
-- Open to collaborating on AI/ML projects and open-source contributions
+- **3+ years** building enterprise software with **.NET, C#, and Python** across full-stack and backend systems
+- Hands-on experience with **ServiceNow development**, **.NET 8 microservices**, **CQRS**, and **event-driven architectures**
+- Building **multi-agent AI systems**, **RAG pipelines**, and **LLM orchestration** tools in production
+- Currently focused on **AI-powered developer tooling** — automated code review, intelligent document processing, and agentic workflows
+- Open to collaborating on **AI/ML** and **open-source** projects
 
 ---
 
