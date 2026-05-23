@@ -93,7 +93,7 @@ Building intelligent systems at the intersection of AI, cloud, and enterprise so
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatarahul27&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatarahul27&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatarahul27&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkatarahul27&theme=github-dark-blue&hide_border=true)
 
