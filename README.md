@@ -15,8 +15,8 @@ Building intelligent systems at the intersection of AI, cloud, and enterprise so
 
 ### About Me
 
-- **3+ years** building enterprise software with **.NET, C#, and Python** across full-stack and backend systems
-- Hands-on experience with **ServiceNow development**, **.NET 8 microservices**, **CQRS**, and **event-driven architectures**
+- Building enterprise software with **.NET, C#, and Python** across full-stack and backend systems
+- Working with **ServiceNow development**, **.NET 8 microservices**, **CQRS**, and **event-driven architectures**
 - Building **multi-agent AI systems**, **RAG pipelines**, and **LLM orchestration** tools in production
 - Currently focused on **AI-powered developer tooling** — automated code review, intelligent document processing, and agentic workflows
 - Open to collaborating on **AI/ML** and **open-source** projects
