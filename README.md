@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Venkata Rahul Murarisetty
+# Venkata Rahul Murarisetty
 
 **Software Developer | AI Engineer | Full Stack Builder**
 
