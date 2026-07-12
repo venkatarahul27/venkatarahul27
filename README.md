@@ -75,6 +75,7 @@ Building intelligent systems at the intersection of AI, cloud, and enterprise so
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**MoJo**](https://github.com/venkatarahul27/MoJo) | Multi-agent AI orchestration — 3 Claude agents run in parallel (Research, Strategy, Devil's Advocate) and synthesize into one sharp brief. Live on Railway. | `Python` `FastAPI` `Claude API` `Async` |
+| [**Claude Research Agent**](https://github.com/venkatarahul27/claude-research-agent) | Autonomous AI agent built on the tool-use loop — 6 tools (web search, SQL, calculator, file read), a FastAPI web UI, and a full unit-test suite. | `Python` `Claude API` `Tool Use` `FastAPI` |
 | [**AI Code Reviewer**](https://github.com/venkatarahul27/ai-code-reviewer) | Automated PR review assistant — analyzes diffs for bugs, security flaws, and performance issues, then posts inline comments on GitHub. | `Python` `Claude API` `PyGithub` `AsyncIO` |
 | [**LangChain PDF Chatbot**](https://github.com/venkatarahul27/langchain-pdf-chatbot) | Upload PDFs and chat with their content. Semantic search via ChromaDB, conversational memory, and source citations in every answer. | `LangChain` `ChromaDB` `Streamlit` `Claude` |
 | [**Enterprise RAG**](https://github.com/Venkata-2001/enterprise-rag-document-intelligence) | Production-ready Document Intelligence System — PDF ingestion, embedding generation, vector search, and context-aware AI responses. | `Python` `FastAPI` `Docker` `LLM` `RAG` |
