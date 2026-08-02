@@ -2,7 +2,7 @@
 
 # Venkata Rahul Murarisetty
 
-**Software Developer | AI Engineer | Full Stack Builder**
+**Full Stack Developer | AI Engineer**
 
 Building intelligent systems at the intersection of AI, cloud, and enterprise software.
 
