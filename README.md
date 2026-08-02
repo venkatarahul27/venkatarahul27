@@ -7,6 +7,7 @@
 Building intelligent systems at the intersection of AI, cloud, and enterprise software.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatarahul0121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulmv7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatarahul27)
 
 </div>
@@ -78,7 +79,6 @@ Building intelligent systems at the intersection of AI, cloud, and enterprise so
 | [**Claude Research Agent**](https://github.com/venkatarahul27/claude-research-agent) | Autonomous AI agent built on the tool-use loop — 6 tools (web search, SQL, calculator, file read), a FastAPI web UI, and a full unit-test suite. | `Python` `Claude API` `Tool Use` `FastAPI` |
 | [**AI Code Reviewer**](https://github.com/venkatarahul27/ai-code-reviewer) | Automated PR review assistant — analyzes diffs for bugs, security flaws, and performance issues, then posts inline comments on GitHub. | `Python` `Claude API` `PyGithub` `AsyncIO` |
 | [**LangChain PDF Chatbot**](https://github.com/venkatarahul27/langchain-pdf-chatbot) | Upload PDFs and chat with their content. Semantic search via ChromaDB, conversational memory, and source citations in every answer. | `LangChain` `ChromaDB` `Streamlit` `Claude` |
-| [**Enterprise RAG**](https://github.com/Venkata-2001/enterprise-rag-document-intelligence) | Production-ready Document Intelligence System — PDF ingestion, embedding generation, vector search, and context-aware AI responses. | `Python` `FastAPI` `Docker` `LLM` `RAG` |
 
 #### .NET & Enterprise
 
@@ -103,7 +103,7 @@ Building intelligent systems at the intersection of AI, cloud, and enterprise so
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=venkatarahul27&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/venkatarahul27)
+[![GitHub followers](https://img.shields.io/github/followers/venkatarahul27?label=Follow&style=social)](https://github.com/venkatarahul27?tab=followers)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=venkatarahul27&label=Profile%20Views&color=0e75b6&style=flat)
 
