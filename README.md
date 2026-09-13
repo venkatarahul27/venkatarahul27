@@ -1,8 +1,8 @@
 # Venkata Rahul Murarisetty
 
-**Software Developer | AI Agents, RAG & Backend Systems**
+**AI Application Developer | Python, FastAPI, RAG & Agentic Systems**
 
-I build practical AI applications and developer tools with Python, FastAPI, LangChain, vector search, and the Claude API. I am also developing my C#/.NET skills through backend architecture coursework and projects.
+I build practical AI applications and backend tools that combine LLM APIs, retrieval, tool use, and asynchronous Python. My projects focus on transparent workflows, useful developer interfaces, and clear source evidence.
 
 [LinkedIn](https://www.linkedin.com/in/rahulmv7) · [Email](mailto:venkatarahul0121@gmail.com)
 
@@ -36,23 +36,16 @@ A Streamlit RAG prototype for uploading PDFs and asking questions about their co
 **Explore:** [RAG chain](https://github.com/venkatarahul27/langchain-pdf-chatbot/blob/main/app/chain.py) · [Local setup](https://github.com/venkatarahul27/langchain-pdf-chatbot#quick-start)  
 **Stack:** Python · LangChain · ChromaDB · Streamlit · Claude API
 
-## Technical Focus
+## Core Stack
 
 | Area | Technologies and patterns |
-| --- | --- |
-| Languages | Python, C#, JavaScript, SQL |
-| AI applications | Claude API, tool use, RAG, LangChain |
-| Backend and interfaces | FastAPI, REST APIs, Streamlit, ServiceNow |
+|---|---|
+| Languages | Python, JavaScript, SQL |
+| AI applications | Claude API, agentic workflows, RAG, LangChain |
+| Backend and interfaces | FastAPI, REST APIs, AsyncIO, Streamlit |
 | Data and retrieval | SQLite, ChromaDB, vector search, PDF processing |
-| Currently developing | .NET, CQRS, RabbitMQ, Docker, event-driven systems |
-
-## Courses & Learning
-
-- Getting Started .NET Core Microservices RabbitMQ
-- Docker & Kubernetes for .NET and Angular Developers
-- The Complete Microservices & Event-Driven Architecture
-- SAP ABAP
+| Engineering practices | Unit testing, tool tracing, source-grounded answers |
 
 ## Connect
 
-I am open to collaborating on AI applications, developer tools, and backend projects. Reach me on [LinkedIn](https://www.linkedin.com/in/rahulmv7) or by [email](mailto:venkatarahul0121@gmail.com).
+I am open to collaborating on AI applications, developer tools, and Python backend projects. Reach me on [LinkedIn](https://www.linkedin.com/in/rahulmv7) or by [email](mailto:venkatarahul0121@gmail.com).
