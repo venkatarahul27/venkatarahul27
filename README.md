@@ -1,118 +1,62 @@
-<div align="center">
-
 # Venkata Rahul Murarisetty
 
-**Full Stack Developer | AI Engineer**
+**Software Developer | AI Applications & .NET Backends**
 
-Building intelligent systems at the intersection of AI, cloud, and enterprise software.
+I build AI agents, document question-answering tools, and backend services with Python and C#/.NET. My projects explore tool use, retrieval-augmented generation (RAG), and asynchronous orchestration.
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatarahul0121@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulmv7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatarahul27)
+[LinkedIn](https://www.linkedin.com/in/rahulmv7) · [Email](mailto:venkatarahul0121@gmail.com)
 
-</div>
+## Selected Projects
 
----
+### [Claude Research Agent](https://github.com/venkatarahul27/claude-research-agent)
 
-### About Me
+An AI agent with six tools for web search, page retrieval, arithmetic, file reading, SQL queries, and note-taking. Includes a CLI, a FastAPI interface with tool traces, and unit tests for the tool layer.
 
-- Building enterprise software with **.NET, C#, and Python** across full-stack and backend systems
-- Working with **ServiceNow development**, **.NET 8 microservices**, **CQRS**, and **event-driven architectures**
-- Building **multi-agent AI systems**, **RAG pipelines**, and **LLM orchestration** tools in production
-- Currently focused on **AI-powered developer tooling**  automated code review, intelligent document processing, and agentic workflows
-- Open to collaborating on **AI/ML** and **open-source** projects
+**Explore:** [Agent loop](https://github.com/venkatarahul27/claude-research-agent/blob/main/agent/core.py) · [Tool tests](https://github.com/venkatarahul27/claude-research-agent/blob/main/tests/test_tools.py)  
+**Stack:** Python · Claude API · FastAPI · SQLite · pytest
 
----
+### [MoJo](https://github.com/venkatarahul27/MoJo)
 
-### Tech Stack
+A multi-agent briefing app that runs research, strategy, and critique prompts concurrently, then synthesizes the results. Server-Sent Events deliver each agent's output as it finishes.
 
-**Languages**
+**Explore:** [Orchestration and streaming](https://github.com/venkatarahul27/MoJo/blob/main/app.py) · [Local setup](https://github.com/venkatarahul27/MoJo#quick-start)  
+**Stack:** Python · FastAPI · AsyncIO · Claude API · JavaScript
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Mojo](https://img.shields.io/badge/Mojo-FF6F00?style=flat-square&logo=mojo&logoColor=white)
+### [AI Code Reviewer](https://github.com/venkatarahul27/ai-code-reviewer)
 
-**AI / ML**
+A CLI prototype that retrieves pull-request diffs, sends chunks to Claude for analysis, filters findings by severity, and posts inline GitHub review comments.
 
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square)
-![Vector DBs](https://img.shields.io/badge/Vector_Search-7C3AED?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+**Explore:** [Review pipeline](https://github.com/venkatarahul27/ai-code-reviewer/blob/main/src/reviewer.py) · [Project documentation](https://github.com/venkatarahul27/ai-code-reviewer#readme)  
+**Stack:** Python · Claude API · PyGithub · AsyncIO
 
-**Frameworks & Backend**
+### [LangChain PDF Chatbot](https://github.com/venkatarahul27/langchain-pdf-chatbot)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+A Streamlit RAG prototype for uploading PDFs and asking questions about their contents. Combines document chunking, local embeddings, ChromaDB retrieval, and source excerpts.
 
-**DevOps & Cloud**
+**Explore:** [RAG chain](https://github.com/venkatarahul27/langchain-pdf-chatbot/blob/main/app/chain.py) · [Local setup](https://github.com/venkatarahul27/langchain-pdf-chatbot#quick-start)  
+**Stack:** Python · LangChain · ChromaDB · Streamlit · Claude API
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4EAA25?style=flat-square)
+## In Progress
 
----
+**[.NET E-Commerce Microservices](https://github.com/venkatarahul27/dotnet-ecommerce-microservices)** — An early architecture scaffold for a .NET e-commerce backend. Contains initial Catalog and Ordering domain models and a Docker Compose outline. Planned work includes runnable services, persistence, messaging, authentication, and tests.
 
-### Featured Projects
+## Technical Focus
 
-#### AI & LLM
+| Area | Technologies and patterns |
+| --- | --- |
+| Languages | Python, C#, JavaScript, SQL |
+| AI applications | Claude API, tool use, RAG, LangChain, vector search |
+| Web interfaces | FastAPI, Streamlit, HTML/CSS |
+| Backend development | .NET, REST APIs, ServiceNow |
+| Architecture interests | CQRS, event-driven systems, microservices |
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**MoJo**](https://github.com/venkatarahul27/MoJo) | Multi-agent AI orchestration — 3 Claude agents run in parallel (Research, Strategy, Devil's Advocate) and synthesize into one sharp brief. Live on Railway. | `Python` `FastAPI` `Claude API` `Async` |
-| [**Claude Research Agent**](https://github.com/venkatarahul27/claude-research-agent) | Autonomous AI agent built on the tool-use loop — 6 tools (web search, SQL, calculator, file read), a FastAPI web UI, and a full unit-test suite. | `Python` `Claude API` `Tool Use` `FastAPI` |
-| [**AI Code Reviewer**](https://github.com/venkatarahul27/ai-code-reviewer) | Automated PR review assistant — analyzes diffs for bugs, security flaws, and performance issues, then posts inline comments on GitHub. | `Python` `Claude API` `PyGithub` `AsyncIO` |
-| [**LangChain PDF Chatbot**](https://github.com/venkatarahul27/langchain-pdf-chatbot) | Upload PDFs and chat with their content. Semantic search via ChromaDB, conversational memory, and source citations in every answer. | `LangChain` `ChromaDB` `Streamlit` `Claude` |
+## Courses & Learning
 
-#### .NET & Enterprise
+- Getting Started .NET Core Microservices RabbitMQ
+- Docker & Kubernetes for .NET and Angular Developers
+- The Complete Microservices & Event-Driven Architecture
+- SAP ABAP
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**.NET E-Commerce Microservices**](https://github.com/venkatarahul27/dotnet-ecommerce-microservices) | Production-grade e-commerce backend — Catalog, Ordering, and Identity services with CQRS, event-driven messaging, and API Gateway. | `C#` `.NET 8` `RabbitMQ` `Docker` `EF Core` |
+## Connect
 
----
-
-### Certifications & Courses
-
-| Course | Focus Area |
-|--------|-----------|
-| **Getting Started .NET Core Microservices RabbitMQ** | `.NET Core` `RabbitMQ` `Microservices` |
-| **Docker & Kubernetes for .NET and Angular Developers** | `Docker` `Kubernetes` `.NET` `Angular` |
-| **The Complete Microservices & Event-Driven Architecture** | `Microservices` `Event-Driven` `System Design` |
-| **SAP ABAP** | `SAP` `ABAP` `Enterprise` |
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/venkatarahul27?label=Follow&style=social)](https://github.com/venkatarahul27?tab=followers)
-
-![Profile Views](https://komarev.com/ghpvc/?username=venkatarahul27&label=Profile%20Views&color=0e75b6&style=flat)
-
-</div>
-
----
-
-<div align="center">
-
-*"Build things that think, ship things that matter."*
-
-</div>
+Open to collaborating on AI applications, developer tools, and backend projects. Reach me on [LinkedIn](https://www.linkedin.com/in/rahulmv7) or by [email](mailto:venkatarahul0121@gmail.com).
