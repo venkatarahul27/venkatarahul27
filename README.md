@@ -1,8 +1,8 @@
 # Venkata Rahul Murarisetty
 
-**Software Developer | AI Applications & .NET Backends**
+**Software Developer | AI Agents, RAG & Backend Systems**
 
-I build AI agents, document question-answering tools, and backend services with Python and C#/.NET. My projects explore tool use, retrieval-augmented generation (RAG), and asynchronous orchestration.
+I build practical AI applications and developer tools with Python, FastAPI, LangChain, vector search, and the Claude API. I am also developing my C#/.NET skills through backend architecture coursework and projects.
 
 [LinkedIn](https://www.linkedin.com/in/rahulmv7) · [Email](mailto:venkatarahul0121@gmail.com)
 
@@ -17,7 +17,7 @@ An AI agent with six tools for web search, page retrieval, arithmetic, file read
 
 ### [MoJo](https://github.com/venkatarahul27/MoJo)
 
-A multi-agent briefing app that runs research, strategy, and critique prompts concurrently, then synthesizes the results. Server-Sent Events deliver each agent's output as it finishes.
+A multi-agent briefing app that runs research, strategy, and critique prompts concurrently, then synthesizes their outputs. Server-Sent Events deliver each agent result as it finishes.
 
 **Explore:** [Orchestration and streaming](https://github.com/venkatarahul27/MoJo/blob/main/app.py) · [Local setup](https://github.com/venkatarahul27/MoJo#quick-start)  
 **Stack:** Python · FastAPI · AsyncIO · Claude API · JavaScript
@@ -41,10 +41,10 @@ A Streamlit RAG prototype for uploading PDFs and asking questions about their co
 | Area | Technologies and patterns |
 | --- | --- |
 | Languages | Python, C#, JavaScript, SQL |
-| AI applications | Claude API, tool use, RAG, LangChain, vector search |
-| Web interfaces | FastAPI, Streamlit, HTML/CSS |
-| Backend development | .NET, REST APIs, ServiceNow |
-| Architecture interests | CQRS, event-driven systems, microservices |
+| AI applications | Claude API, tool use, RAG, LangChain |
+| Backend and interfaces | FastAPI, REST APIs, Streamlit, ServiceNow |
+| Data and retrieval | SQLite, ChromaDB, vector search, PDF processing |
+| Currently developing | .NET, CQRS, RabbitMQ, Docker, event-driven systems |
 
 ## Courses & Learning
 
@@ -55,4 +55,4 @@ A Streamlit RAG prototype for uploading PDFs and asking questions about their co
 
 ## Connect
 
-Open to collaborating on AI applications, developer tools, and backend projects. Reach me on [LinkedIn](https://www.linkedin.com/in/rahulmv7) or by [email](mailto:venkatarahul0121@gmail.com).
+I am open to collaborating on AI applications, developer tools, and backend projects. Reach me on [LinkedIn](https://www.linkedin.com/in/rahulmv7) or by [email](mailto:venkatarahul0121@gmail.com).
