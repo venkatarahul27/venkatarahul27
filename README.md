@@ -4,7 +4,7 @@
 
 I build practical AI applications and backend tools that combine LLM APIs, retrieval, tool use, and asynchronous Python. My projects focus on transparent workflows, useful developer interfaces, and clear source evidence.
 
-[LinkedIn](https://www.linkedin.com/in/rahulmv7) · [Email](mailto:venkatarahul0121@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rahulmv7) · [Email](mailto:rahulmurari32@gmail.com)
 
 ## Selected Projects
 
@@ -48,4 +48,4 @@ A Streamlit RAG prototype for uploading PDFs and asking questions about their co
 
 ## Connect
 
-I am open to collaborating on AI applications, developer tools, and Python backend projects. Reach me on [LinkedIn](https://www.linkedin.com/in/rahulmv7) or by [email](mailto:venkatarahul0121@gmail.com).
+I am open to collaborating on AI applications, developer tools, and Python backend projects. Reach me on [LinkedIn](https://www.linkedin.com/in/rahulmv7) or by [email](mailto:rahulmurari32@gmail.com).
