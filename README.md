@@ -36,10 +36,6 @@ A Streamlit RAG prototype for uploading PDFs and asking questions about their co
 **Explore:** [RAG chain](https://github.com/venkatarahul27/langchain-pdf-chatbot/blob/main/app/chain.py) · [Local setup](https://github.com/venkatarahul27/langchain-pdf-chatbot#quick-start)  
 **Stack:** Python · LangChain · ChromaDB · Streamlit · Claude API
 
-## In Progress
-
-**[.NET E-Commerce Microservices](https://github.com/venkatarahul27/dotnet-ecommerce-microservices)** — An early architecture scaffold for a .NET e-commerce backend. Contains initial Catalog and Ordering domain models and a Docker Compose outline. Planned work includes runnable services, persistence, messaging, authentication, and tests.
-
 ## Technical Focus
 
 | Area | Technologies and patterns |
