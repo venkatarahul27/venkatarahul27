@@ -1,6 +1,6 @@
 # Venkata Rahul Murarisetty
 
-**AI Application Developer | Python, FastAPI, RAG & Agentic Systems**
+**Software Developer specializing in AI applications | Python, FastAPI, RAG & Agentic Systems**
 
 I build practical AI applications and backend tools that combine LLM APIs, retrieval, tool use, and asynchronous Python. My projects focus on transparent workflows, useful developer interfaces, and clear source evidence.
 
